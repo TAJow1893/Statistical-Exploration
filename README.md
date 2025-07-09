@@ -17,7 +17,7 @@ This repository contains Jupyter Notebooks used to explore, visualize, and calcu
 ## Author
 
 **Name:** Travis Andrew Jowers  
-**Email:** your_email@example.com
+**Email:** Taj288@msstate.edu
 
 ## Purpose
 
